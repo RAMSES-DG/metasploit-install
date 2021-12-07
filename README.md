@@ -1,7 +1,7 @@
 <html> 
  <body> 
   <head> 
-METASPLOIT
+METASPLOIT install
   </head>
 <img src=''> 
 
