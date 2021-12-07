@@ -97,7 +97,7 @@ termux-elf-cleaner /data/data/com.termux/files/usr/lib/ruby/gems/*/gems/pg-*/lib
 echo
 cd $HOME/metasploit-install
 echo
-mv pony.txt /metasploit-framework/data/logos
+mv pony.txt $HOME/metasploit-framework/data/logos
 echo
 center "*"
 echo -e "\033[32m Installation complete by R4mses . \n Launch metasploit by executing: msfconsole\033[0m"
