@@ -1,12 +1,12 @@
 #!/data/data/com.termux/files/usr/bin/bash
 clear
 echo "
-    +-+-+-+-+-+-+-+-+-+-+ +-+-+ +-+-+-+-+-+-+
-    |M|e|t|a|s|p|l|o|i|t| |i|n| |T|e|r|m|u|x|
-    +-+-+-+-+-+-+-+-+-+-+ +-+-+ +-+-+-+-+-+-+
-            +-+-+ +-+-+-+-+-+-+-+-+-+-+
-            |b|y| |G|u|s|h|m|a|z|u|k|o|
-            +-+-+ +-+-+-+-+-+-+-+-+-+-+
+    +-+-+-+-+-+-+-+-+-+-+ +-+-+-+-+-+-+-+
+    |M|e|t|a|s|p|l|o|i|t| |i|n|s|t|a|l|l|
+    +-+-+-+-+-+-+-+-+-+-+ +-+-+-+-+-+-+-+
+            +-+-+ +-+-+-+-+-+-+
+            |b|y| |R|4|m|s|e|s|
+            +-+-+ +-+-+-+-+-+-+
 "
 
 center() {
@@ -97,5 +97,5 @@ termux-elf-cleaner /data/data/com.termux/files/usr/lib/ruby/gems/*/gems/pg-*/lib
 
 echo
 center "*"
-echo -e "\033[32m Installation complete. \n Launch metasploit by executing: msfconsole\033[0m"
+echo -e "\033[32m Installation complete by R4mses . \n Launch metasploit by executing: msfconsole\033[0m"
 center "*"
