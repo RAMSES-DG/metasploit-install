@@ -97,7 +97,7 @@ termux-elf-cleaner /data/data/com.termux/files/usr/lib/ruby/gems/*/gems/pg-*/lib
 echo
 cd $HOME/metasploit-install
 echo
-mv pony.txt $HOME/metasploit-framework/data/logos
+mv logos $HOME/metasploit-framework/data
 echo
 cd
 echo
