@@ -4,13 +4,14 @@
 <br>
  
 <font color=blue size='10px' face='tahoma'>
- <h1> <p align='center'> <b> METASPLOIT-INSTALL <br> </h1>
+ <h1>  <b> METASPLOIT-INSTALL <br> </h1>
 <br>
 <br> 
 
-      Usage:
+<font color=blue size='10px' face='tahoma'>
+ <h1>  <b> Usage : <br> </h1>
+  </body>
 <br> 
-
 
 * cd $HOME/metasploit-install
 <br> 
