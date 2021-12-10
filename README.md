@@ -8,7 +8,7 @@ METASPLOIT install
 <br>
 <br> 
 
-      usage:
+      Usage:
 <br> 
 
 
