@@ -6,19 +6,27 @@
 METASPLOIT install
   </head>
 <br>
-usage: 
+<br> 
 
-chmod 777 metasploit.sh  
+      usage:
+<br> 
+
+
+* cd $HOME/metasploit-install
+<br> 
+
+  * chmod 777 metasploit.sh  
         or
-chmod +x metasploit.sh
+  * chmod +x metasploit.sh
+<br> 
 
-
-bash metasploit.sh  
+* bash metasploit.sh  
         or
-./metasploit.sh
+* ./metasploit.sh
+<br> 
 
-
-* wait the installing some time
+   * wait the installing some time *
+<br> 
 
 launch metasploit-framework by command: msfconsole
 
