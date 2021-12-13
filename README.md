@@ -6,7 +6,20 @@
 <font color=blue size='10px' face='tahoma'>
  <h1>  <b> METASPLOIT-INSTALL <br> </h1>
 <br>
+<br>
+ <font size='1px'>
+<h1>  Need : </h1>
 <br> 
+
+* apt upgrade
+<br> 
+
+* git clone https://github.com/RAMSES-DG/metasploit-install
+
+<br>
+<font size='1px'>
+
+
 
 <font color=blue size='10px' face='tahoma'>
  <h1>  <b> Usage : <br> </h1>
